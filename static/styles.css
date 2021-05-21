@@ -1,0 +1,17 @@
+header {
+    background-color: #01112a;
+    border: 1px;
+    border-color:  #01112a;
+}
+
+header .nav-link {
+    color:ghostwhite;
+}
+
+footer {
+    font-size: 0.75rem;
+}
+
+body {
+    background-color: darkgray;
+}
